@@ -1,12 +1,12 @@
 [Story]:{
     [The Past]:{
         ... Approximately Twenty Years Ago ...nVictor Steele is one of the richest men in the galaxy. His fortune was gained through years of adventuring during the Thirteenth Great Planet Rush, almost two hundred years ago. His trillion dollar company, Steele Industrial Technologies and Production, or Steele Tech, is one of the most respected names in its field. Unfortunately, during his adventures, Victor underwent many mutations that wreaked havoc on his genome. After two centuries of life due to longevity treatments, the mining magnate’s doctors have told him he has a measly two decades left. The news is unwelcome. Still, he’s lived a rich, full life - fuller than most. With twenty years ahead of him, the suddenly old industrialite looks toward siring a successor; an heir or heiress to carry on his legacy and to ensure that the Steele name is honored throughout all of history. With the next Planet Rush a scant 23 years ahead, the timing is ideal. Just as his offspring reaches adulthood, the United Galactic Confederacy will be expanding its borders, turning on the hundreds of warp gates it has shot out into unexplored space. The rushes - performed every century or so - always result in a galactic free-for-all. It’s perfect, Victor thinks. His child could rise to greatness, becoming richer and more powerful than he ever was. And perhaps, with a bit of luck, a better person as well. The real question is, who should the mother be? Many lovers spring to mind, both human and alien. After all, he has no shortage of them. Should his offspring be a pure human, like himself, or perhaps something a little more exotic? Decisions, decisions... What species would you like your character to be?
-        [Human(<IMG src="">|<Link src="Monther/Human.dex">)]
-        [Ausar(<IMG src="">|<Link src="Monther/Ausar.dex">)]
-        [Kaithrit(<IMG src="">|<Link src="Monther/Kaithrit.dex">)]
-        [Leithan(<IMG src="">|<Link src="Monther/Leithan.dex">)]
-        [Kui-Tan(<IMG src="">|<Link src="Monther/Kui-Tan.dex">)]
-        [Gryvain(<IMG src="">|<Link src="Monther/Gryvain.dex">)]
-        [Suula(<IMG src="">|<Link src="Monther/Suula.dex">)]
+        [Human(<IMG src="">|<Link src="Monther/Human.dex">|<GEN src="IMG/Human.Gen">)]
+        [Ausar(<IMG src="">|<Link src="Monther/Ausar.dex">|<GEN src="IMG/Ausar.Gen">)]
+        [Kaithrit(<IMG src="">|<Link src="Monther/Kaithrit.dex">|<GEN src="IMG/Kaithrit.Gen">)]
+        [Leithan(<IMG src="">|<Link src="Monther/Leithan.dex">|<GEN src="IMG/Leithan.Gen">)]
+        [Kui-Tan(<IMG src="">|<Link src="Monther/Kui-Tan.dex">|<GEN src="IMG/Kui-Tan.Gen">)]
+        [Gryvain(<IMG src="">|<Link src="Monther/Gryvain.dex">|<GEN src="IMG/Gryvain.Gen">)]
+        [Suula(<IMG src="">|<Link src="Monther/Suula.dex">|<GEN src="IMG/Suula.Gen">)]
     }
 }

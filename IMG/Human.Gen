@@ -1,0 +1,31 @@
+[Name and Sex]:{
+    [Gender]:{
+        [Boy]|[Girl]
+    }
+    [Male]:{
+        [Height]:{
+            [Very Short(<Size>48IN</Size>)]
+            [Short(<Size>62IN</Size>)]
+            [Average(<Size>75IN</Size>)]
+            [Tall(<Size>78IN</Size>)]
+            [Very Tall(<Size>84IN</Size>)]
+        }
+        [Thickness]:{
+            [Very Thin(<Size>100LBS</Size>)]
+            [Thin(<Size>120LBS</Size>)]
+            [Lithe(<Size>140LBS</Size>)]
+            [Normal(<Size>160LBS</Size>)]
+            [Husky(<Size>180LBS</Size>)]
+        }
+        [Hair Pigment]:{
+            [Black]
+            [Brown]
+            [Dirty Blonde]
+            [Blonde]
+            [Auburn]
+            [Red]
+            [Gray]
+        }
+    }
+    [Female]:{}
+}
