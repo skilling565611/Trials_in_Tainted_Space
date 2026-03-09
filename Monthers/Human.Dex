@@ -1,3 +1,54 @@
 [Human]:{
-
+    What does it mean to be human?
+    [Name (Singular)]:{
+        Human
+    }
+    [Sexes]:{
+        <Gender>Male and female.</Gender>
+    }
+    [Height]:{
+        Fully matured humans commonly range from five feet to just over six, though rare exceptions exist on both sides of the spectrum.
+    }
+    [Weight]:{
+        Adult humans commonly weigh between 140 and 180 pounds, with males being 20 to 30 pounds heavier than females on average.
+    }
+    [Average Lifespan]:{
+        Most humans have a natural lifespan between 80 and 90 years without the assistance of modern medicine, though particularly healthy humans may live upwards of a century.
+    }
+    [Skin]:{
+        Humans are covered in a soft, supple skin which is largely furless save for at the hair on the top of their head. Vestigial fur remains on their forearms and lower legs which is used for temperature regulation, though some humans may have this hair removed. Color variation of the skin ranges from a fair, peach-like tone to a very dark brown. Lighter shades of human skin will often become temporarily darker when exposed to sunlight.
+    }
+    [Hair]:{
+        Color varies, with brown, blonde, and black as the three most common colors, though auburn and red hair also exist. Growth of pubic and facial hair are markers of age. As a human ages extensively, individual strands may grow white, causing the hair to become gray or entirely white. Balding is common for males of the species at certain ages.
+    }
+    [Eyes]:{
+        Human eyes are circular, with a colored iris surrounding a black pupil that may dilate under dark conditions or when focusing on an object of interest, though this dilation is not especially pronounced relative to many other species. Naturally, blue, green, brown and hazel are the most common eye colors.
+    }
+    [Ears]:{
+        Human ears are mounted on either side of their head, having a largely ovoid shape. The organ is used for detecting sound and aiding with maintaining balance while moving. Human ears are compact compared to many other races, though their quality of hearing is quite good. The audible range for human ears is between 20 to 20,000 Hz on average.
+    }
+    [Homeworld]:{
+        Terra
+    }
+    [Appearance]:{
+        There isn’t much to say about human appearances that aren’t covered in the briefs above. Their overall biomass can be quite small or quite large, depending on diet and exercise. Their genitals are relatively unremarkable by galactic standards, sharing features with a great many other species, admittedly with their own terran twist. The defining characteristics of the male anatomy is a mushroom like glans and excess skin which protects the organ when not aroused. Males also have two testes, used to regulate sex hormones and produce reproductive material. They also bear vestigial breasts and nipples. Though these organs are undersized and unused, it is possible to stimulate lactation with sufficient effort, allowing for a modicum of natural growth. Females have larger breasts than males that are able to lactate far more readily than their male counterparts. They also lack a penis or testes, instead having a vaginal slit positioned between their legs. This slit is self-lubricating, like most galactic species’, allowing for vigorous sexual intercourse. Once fertilized, females typically spend nine months incubating a single young, though in rare cases two or three fetuses can be produced at once. Medical records spanning two millennia indicate that human genitalia and breast size has steadily climbed with the availability of genetic modification, resulting in typical male endowments to be seven to eight inches long and females with more easily lubricated vaginas and larger breasts. Given humans below average libidos, it is considered something of an oddity that they place such emphasis on the function of their sexual characteristics.
+    }
+    [Reproduction]:{
+        Human reproduction normally takes a few minutes when done quickly, though many humans prefer to go for longer. While long-term sexual monogamy is common among humans, they’re also known for being quite libidinous, and some members of the species may be as sexually forward as any ausar or even more so. Human pregnancy generally lasts nine months and usually bears only one child at a time, though instances of multiple births are not uncommon, especially among the more fertile. Human infants can see at birth and mature to adulthood biologically at 10-12 years for females and 12-14 years for males, but recognized legally at 18 years of age. Though newborns consist of primarily females and males, there have been rare cases of natural hermaphrodites.
+    }
+    [Combat]:{
+        While lacking significant natural biological defenses compared to other species, humans nonetheless bear a number of useful traits, with hands capable of balling into primitive clubs and a bite that carries all manner of infectious agents. Humans have also developed many styles of martial arts focused on landing hits with their fists or legs which are remarkably effective. With the rise of technology, they have also developed large arrays of deadly weapons and armors, even going so far as to devise weapons capable of driving their own race to an early extinction. Galactic opinion is still varied on whether or not surviving that stage of their development was a good thing. The sword is the most culturally iconic human weapon, and swords continue to be made today, from simple to elaborate metal blades, even to the more technologically-driven weaponry.
+    }
+    [Environs Typically Inhabited]:{
+        Humans are capable of colonizing a wide variety of environments, though the vast majority of the land-based species are preferably drawn to temperate or tropical climates with at least some atmospheric moisture. Terra itself displays both of these climates along with colder regions at the far north and south of the planet’s axis.
+    }
+    [Society]:{
+        Human society on the galactic scale is somewhat fragmented. The largest and most well-known human society is the Terran-Space Coalition, consisting of the human homeworld and various member planets. However, despite the T.S.C.’s efforts to appear hegemonic, there are many other confederations and independent human-dominated worlds which are not a part of it.
+    }
+    [History]:{
+        Humans have managed to maintain extensive records deep into their history such that it would be impossible to properly describe the entirety of their development in this short summary. Two traits have remained constants - exploration and conflict. Nearly every major advancement has come as a result of one of these two. Humans are a race that easily throws themselves to war, falling back on tribal instincts that lead them to obliterate or dominate others. Additionally, they will recklessly throw themselves at the unknown, determined to go to difficult locations for no other reason than to be the first. Both these instincts have been reigned in over the years, but one need only look at the early human wars with their own colonies to see how quickly they will jump to violence, even with their own people.
+    }
+    [Other Notes]:{
+        Mostly harmless.
+    }
 }
