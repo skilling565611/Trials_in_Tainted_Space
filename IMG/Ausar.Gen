@@ -1,6 +1,6 @@
-[Human]:{
+[Ausr]:{
     [Gender]:{
-        [Boy]|[Girl]
+        [Male]|[Female]
     }
     [Male]:{
         [Height]:{
@@ -25,12 +25,14 @@
             [Auburn(<RGB r="165" g="42" b="42">#A52A2A</RGB>)]
             [Red(<RGB r="255" g="0" b="0">#FF0000</RGB>)]
             [Gray(<RGB r="128" g="128" b="128">#808080</RGB>)]
+            [White(<RGB r="255" g="255" b="255">#FFFFFF</RGB>)]
         }
         [Eye Pigment]:{
             [Blue(<RGB r="0" g="0" b="255">#0000FF</RGB>)]
             [Green(<RGB r="0" g="255" b="0">#00FF00</RGB>)]
             [Hazel(<RGB r="255" g="255" b="0">#FFFF00</RGB>)]
             [Brown(<RGB r="165" g="42" b="42">#A52A2A</RGB>)]
+            [Gold(<RGB r="255" g="215" b="0">#FFD700</RGB>)]
         }
         [Skin Pigment]:{
             [Pale(<RGB r="255" g="224" b="189">#FFE0BD</RGB>)]
@@ -78,6 +80,7 @@
             [Auburn(<RGB r="165" g="42" b="42">#A52A2A</RGB>)]
             [Red(<RGB r="255" g="0" b="0">#FF0000</RGB>)]
             [Gray(<RGB r="128" g="128" b="128">#808080</RGB>)]
+            [White(<RGB r="255" g="255" b="255">#FFFFFF</RGB>)]
         }
         [Eye Pigment]:{
             [Blue(<RGB r="0" g="0" b="255">#0000FF</RGB>)]

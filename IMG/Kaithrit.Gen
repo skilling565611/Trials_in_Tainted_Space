@@ -1,4 +1,4 @@
-[Human]:{
+[Kaithrit]:{
     [Gender]:{
         [Boy]|[Girl]
     }
@@ -25,12 +25,20 @@
             [Auburn(<RGB r="165" g="42" b="42">#A52A2A</RGB>)]
             [Red(<RGB r="255" g="0" b="0">#FF0000</RGB>)]
             [Gray(<RGB r="128" g="128" b="128">#808080</RGB>)]
+            [Blue(<RGB r="0" g="0" b="255">#0000FF</RGB>)]
+            [Green(<RGB r="0" g="255" b="0">#00FF00</RGB>)]
+            [Purple(<RGB r="128" g="0" b="128">#800080</RGB>)]
         }
         [Eye Pigment]:{
             [Blue(<RGB r="0" g="0" b="255">#0000FF</RGB>)]
             [Green(<RGB r="0" g="255" b="0">#00FF00</RGB>)]
             [Hazel(<RGB r="255" g="255" b="0">#FFFF00</RGB>)]
             [Brown(<RGB r="165" g="42" b="42">#A52A2A</RGB>)]
+            [Amber(<RGB r="255" g="191" b="0">#FFBF00</RGB>)]
+            [Yellow(<RGB r="255" g="255" b="0">#FFFF00</RGB>)]
+            [Orange(<RGB r="255" g="165" b="0">#FFA500</RGB>)]
+            [Violet(<RGB r="238" g="130" b="238">#EE82EE</RGB>)]
+            [Copper(<RGB r="184" g="115" b="51">#B87333</RGB>)]
         }
         [Skin Pigment]:{
             [Pale(<RGB r="255" g="224" b="189">#FFE0BD</RGB>)]
@@ -51,8 +59,6 @@
             [4']
             [5']
             [6']
-            [7']
-            [8']
         }
     }
     [Female]:{
@@ -78,12 +84,20 @@
             [Auburn(<RGB r="165" g="42" b="42">#A52A2A</RGB>)]
             [Red(<RGB r="255" g="0" b="0">#FF0000</RGB>)]
             [Gray(<RGB r="128" g="128" b="128">#808080</RGB>)]
+            [Blue(<RGB r="0" g="0" b="255">#0000FF</RGB>)]
+            [Green(<RGB r="0" g="255" b="0">#00FF00</RGB>)]
+            [Purple(<RGB r="128" g="0" b="128">#800080</RGB>)]
         }
         [Eye Pigment]:{
             [Blue(<RGB r="0" g="0" b="255">#0000FF</RGB>)]
             [Green(<RGB r="0" g="255" b="0">#00FF00</RGB>)]
             [Hazel(<RGB r="255" g="255" b="0">#FFFF00</RGB>)]
             [Brown(<RGB r="165" g="42" b="42">#A52A2A</RGB>)]
+            [Amber(<RGB r="255" g="191" b="0">#FFBF00</RGB>)]
+            [Yellow(<RGB r="255" g="255" b="0">#FFFF00</RGB>)]
+            [Orange(<RGB r="255" g="165" b="0">#FFA500</RGB>)]
+            [Violet(<RGB r="238" g="130" b="238">#EE82EE</RGB>)]
+            [Copper(<RGB r="184" g="115" b="51">#B87333</RGB>)]
         }
         [Skin Pigment]:{
             [Pale(<RGB r="255" g="224" b="189">#FFE0BD</RGB>)]
@@ -101,6 +115,10 @@
             [C(<Size>3</Size>)]
             [D(<Size>4</Size>)]
             [DD(<Size>5</Size>)]
+            [Big DD(<Size>6</Size>)]
+            [E(<Size>7</Size>)]
+            [Big E(<Size>8</Size>)]
+            [EE(<Size>9</Size>)]
         }
         [Vaginal Traits]:{
             [Capacity]
